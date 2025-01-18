@@ -1,5 +1,5 @@
 import React from "react";
-import "../icon_divs/icon_divs.css";
+import "../icon_divs/Icon_divs.css";
 
 function Icon_divs({ img1, img2, img3, className, className2 }) {
   return (
