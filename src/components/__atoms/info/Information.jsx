@@ -1,5 +1,5 @@
 import React from "react";
-import "../info/Info.css";
+import "../info/Information.css";
 import Info_icon from "../../../assets/images/info.svg";
 function Info() {
   return (

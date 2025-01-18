@@ -1,6 +1,6 @@
 import React from "react";
 import "../conteiner/Conteiner.css";
-import Info from "../../__atoms/info/info";
+import Info from "../../__atoms/info/Information.jsx";
 import Icon_divs from "../../__atoms/icon_divs/Icon_divs";
 import Button from "../../__atoms/button/Button";
 
