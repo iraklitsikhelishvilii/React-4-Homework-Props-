@@ -1,0 +1,13 @@
+.info_div{
+    width: 32px;
+    height: 32px;
+    background: var(--White, #FFF);
+filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.10));
+display: flex;
+justify-content: center;
+align-items: center;
+border-radius: 50%;
+position: absolute;
+right: 24px;
+top: 16px;
+}

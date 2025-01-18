@@ -1,0 +1,20 @@
+.icon_divs{
+    width: 24px;
+height: 24px;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.green{
+    background: var(--Cards-4-action-color, #2ECC71);
+}
+.red{
+    background: var(--Cards-3-main-button, #F8593B);
+}
+.yellow{
+    background: var(--Cards-3-best-offer, #FFC22B);
+}
+.dissepare{
+    display: none;
+}
